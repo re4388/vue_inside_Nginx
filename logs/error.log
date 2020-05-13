@@ -1,0 +1,6 @@
+2020/05/13 15:33:26 [error] 25372#20288: *2 CreateFile() "C:\nginx-1.17.10/html/robots.txt" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "localhost"
+2020/05/13 15:33:27 [error] 25372#20288: *2 CreateFile() "C:\nginx-1.17.10/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/05/13 15:38:33 [notice] 12944#19668: signal process started
+2020/05/13 15:51:15 [notice] 26556#10560: signal process started
+2020/05/13 15:52:04 [notice] 7364#19524: signal process started
+2020/05/13 15:53:31 [notice] 23468#7164: signal process started
